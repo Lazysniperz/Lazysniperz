@@ -5,16 +5,16 @@
 Hey there! I'm **Ahmed Shafiq** (aka **Snipy**), the mind behind **Lumnier Labs**. I love building smart systems, exploring the depths of AI, and tweaking every bit of my Linux setups — all while being as lazy as a sloth (but deadly accurate like a sniper 🎯).
 
 ---
-
-## 🧠 About Me
-
-- 🔧 Engineer & Full-time Curious Mind  
-- 🧬 AI, Vision, Voice, and Virtual Assistants  
-- 💻 Linux Dev / Tinkerer / Distro Hopper  
-- 🛠️ Low-level programmer (C, C++, Assembly)
-- 🐧 macOS on Dell Precision 5540 (Hackintosh enthusiast)
-- 👨‍💻 Creator of AI assistant: **Horiza**
-
+```
+    .---.        Ahmed Shafiq (Snipy) @ Lazysniperz
+   /     \       -------------------------------
+   \.@-@./       OS: Linux / macOS Ventura (Hackintosh)
+   /`\_/`\       Role: Engineer, AI Dev, Linux Tinkerer
+  //  _  \\      Shell: Bash / zsh / fish (lazy rotation)
+ | \     )|_     Languages: C, C++, Python, Assembly
+/`\_`>  <_/ \    Tools: OpenCV, Hugging Face, OpenCore
+\__/'---'\__/    Projects: Horiza (AI Assistant), Dev tools, Lumnier Labs
+```
 ---
 
 ## 🚀 Current Projects
